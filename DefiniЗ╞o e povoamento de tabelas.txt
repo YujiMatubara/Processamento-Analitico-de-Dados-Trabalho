@@ -1,0 +1,3 @@
+Para a criação de tabelas, utilizamos as ferramentas do pgAdmin 4 para definição das tabelas, desde constraints até suas chaves. Os sql gerados pela ferramenta estão disponibilizados no arquivo criar_tabelas.sql
+
+Para o povoamento das tabelas, utilizamos a funcionalidade do pgAdmin 4 para importar os dados já tratados dos .csv para as tabelas, respeitando todas suas características e constraints.
